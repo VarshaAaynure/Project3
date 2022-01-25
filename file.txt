@@ -3,4 +3,5 @@ two
 three
 four
 demo1 updated
-demo2 updated file 
+demo2 updated file
+conflict2
