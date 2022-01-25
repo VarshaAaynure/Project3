@@ -1,0 +1,388 @@
+    1  git config use.name "varsha"
+    2  git version
+    3  pwf
+    4  pwd
+    5  git config -- global user.name "varsha"
+    6  git config --global user.name "varsha"
+    7  git config --global user.email "varshaainure98@gmail.com"
+    8  git config --list
+    9  git config --global core.editor notepad
+   10  git config --list
+   11  git status
+   12  git status
+   13  git add xyz.txt
+   14  git init
+   15  git add xyz.txt
+   16  git status
+   17  git status
+   18  git status
+   19  git commit  -m "file updated"
+   20  git log
+   21  git log
+   22  git log --oneline
+   23  git touch file1.txt
+   24  touch file1.txt
+   25  git status
+   26  git add file1.txt
+   27  git branch
+   28  git branch -r
+   29  git branch -a
+   30  git --version
+   31  git config --global user.name "VarshaAaynure"
+   32  git config --global user.email "varshaainure98@gmail.com"
+   33  git config --global --list
+   34  git status
+   35  git config --global color.ui auto
+   36  git config --global --list
+   37  git init
+   38  git status
+   39  git 
+   40  git -c
+   41  git -C
+   42  git -C master
+   43  git add first.html
+   44  git add first.html
+   45  git status
+   46  git diff
+   47  git resert
+   48  git reset
+   49  git --help
+   50   git config --global --list
+   51  git clone https://github.com/VarshaAaynure/FirstRepository.git
+   52  ls
+   53  cd FirstRepository/
+   54  ls
+   55  vim README.md 
+   56  clear
+   57  cd ..
+   58  cd ..
+   59  kmdir varsha
+   60  mkdir varsha
+   61  ls
+   62  cd varsha/
+   63  clear
+   64  git --version
+   65  git config --global user.name
+   66   git config --global user.email
+   67  git config --global --list
+   68  git checkout master
+   69  git branch
+   70  git clone https://github.com/VarshaAaynure/FirstRepository.git
+   71  ls
+   72  clear
+   73  ls
+   74  cd FirstRepository/
+   75  ls
+   76  git branch
+   77  git branch new_branch
+   78  git checkout new_branch
+   79  ls
+   80  cat README.md 
+   81  vim README.md 
+   82  cat README.md 
+   83  git status
+   84  clear
+   85  git branch
+   86  git puul
+   87  git pull
+   88  git branch master 
+   89  git branch main
+   90  git checkout master
+   91  git checkout main
+   92  ls
+   93  clear
+   94  git branch
+   95  git pull
+   96  git checkut new_branch
+   97  git checkout new_branch
+   98  clear
+   99  ls
+  100  git status
+  101  git add 
+  102  git add README.md 
+  103  git status
+  104  git commit 
+  105  git commit 
+  106  git commit -m "added hii"
+  107  clear
+  108  git push
+  109  git push --set-upstream origin new_branch
+  110  gclear
+  111  clrar
+  112  clear
+  113  git branch main
+  114  git checkout main
+  115  git pull
+  116  git brnch
+  117  git branch
+  118  git checkout new-branch
+  119  git checkout new_branch
+  120  clear
+  121  git delete new_branch
+  122  git --help
+  123  git branch -d new_branch
+  124  git checkout main
+  125  clear
+  126  git branch -d new_branch
+  127  git branch
+  128  ls
+  129  git pull
+  130  cd Demo
+  131  git pull
+  132  git push Demo
+  133   git push --set-upstream Demo master
+  134  git remote add origin VarshaAaynure@github.com:VarshaAaynure/Demo.git
+  135  cd ..
+  136  Cd Demo
+  137  cd Demo
+  138  gh repo create
+  139  curl -u 'USER' https://github.com/VarshaAaynure?tab=repositories -d '{"DemoD":"REPO"}'
+  140  git status
+  141  git pull
+  142  cd ..
+  143  clear
+  144  ls
+  145  rmdir Demo
+  146  rmdir -f Demo/
+  147  rm -rf Demo/
+  148  ls
+  149  clear
+  150  ls
+  151  git clone https://github.com/VarshaAaynure/Project1.git
+  152  git status
+  153  cd Project1/
+  154  git status
+  155  git pull
+  156  git status
+  157  ls
+  158  cd ..
+  159  ls
+  160  clear
+  161  cat > Hello.txt
+  162  cat Hello.txt 
+  163  git status
+  164  ls
+  165  rm -rf Hello.txt 
+  166  clear
+  167  ls
+  168  cd Project1/
+  169  clear
+  170  cat > Hello.txt
+  171  cat Hello.txt 
+  172  git status
+  173  git add Hello.txt 
+  174  git commit -m "added Hello.txt file"
+  175  git status
+  176  git push 
+  177  git status
+  178  cd .
+  179  cd ..
+  180  clear
+  181  ls
+  182  cd Project1/
+  183  ls
+  184  git branch 
+  185  s
+  186  ls
+  187  cat Hello.txt 
+  188  cd ..
+  189  clear
+  190  ls
+  191  cd Project1/
+  192  ls
+  193  cat Hello.txt 
+  194  git brachn
+  195  git branch
+  196  git branch Demo1
+  197  bit branch
+  198  clear
+  199  git branch -a
+  200  git branch 
+  201  git branch =+-p
+  202  git branch -p
+  203  clear
+  204  git branch checkout Demo1
+  205  git checkout Demo1
+  206  git checkout main
+  207  git branch
+  208  git branch -d =+-p
+  209  git branch
+  210  git branch Demo2
+  211  git branch
+  212  clear
+  213  ls
+  214  cat Hello.txt
+  215  git checkout Demo1
+  216  ls
+  217  vi cat
+  218  ls
+  219  vi Hello.txt 
+  220  cat Hello.txt 
+  221  git checkout Demo2
+  222  ls
+  223  cat Hello.txt 
+  224  git checkout main
+  225  ls
+  226  cat Hello.txt 
+  227  git checkout Demo2
+  228  ls 
+  229  cat Hello.txt 
+  230  vi Hello.txt 
+  231  cat Hello.txt 
+  232  git add Hello.txt 
+  233  git commit -m "Added six in Hello.txt"
+  234  git push 
+  235  git push --set-upstream origin Demo2
+  236  git checkout Demo1
+  237  git add Hello.txt 
+  238  git commit -m "Added five in Hello.txt"
+  239  git push
+  240   git push --set-upstream origin Demo1
+  241  vi Hello.txt 
+  242  vi Hello.txt 
+  243  cat Hello.txt
+  244  git checkout Demo2
+  245  ls
+  246  cat Hello.txt 
+  247  vi Hello.txt 
+  248  git add .
+  249  git checkout Demo1
+  250  git commit -m "Updated Demo2"
+  251  git checout Demo1
+  252  git checkout Demo1
+  253  ls
+  254  cat Hello.txt 
+  255  vi Hello.txt 
+  256  git add .
+  257  git commit -m "updated demo1"
+  258  git push
+  259  clear
+  260  ls
+  261  vi Hello.txt 
+  262  cat Hello.txt 
+  263  git add .
+  264  git commit -m "updated project1"
+  265  git push
+  266  git push
+  267  ls
+  268  git nrach
+  269  git branch
+  270  git checkout Demo1
+  271  ls
+  272  vi Hello.txt
+  273  cat Hello.txt
+  274  git add Hello.txt 
+  275  git checkout Demo2
+  276  git commit -m "updated Demo1"
+  277  git checkout Demo2
+  278  vi Hello.txt 
+  279  git checkout main
+  280  git add .
+  281  git commit -m "updated demo2"
+  282  git checkout main
+  283  git merge Demo1
+  284  git merge Demo2
+  285  git diff Hello.txt
+  286  ls
+  287  vi Hello.txt 
+  288  git merge Demo2
+  289  git add .
+  290  git commit -m "resolved conflict"
+  291  ls
+  292  cat Hello.txt 
+  293  clear
+  294  git branch
+  295  git branch -d checkout 
+  296  git branch
+  297  cd ..
+  298  ls
+  299  clear
+  300  git clone https://github.com/VarshaAaynure/Project3.git
+  301  ls
+  302  cd Project3
+  303  ls
+  304  cd ..
+  305  git status
+  306  cd Project3
+  307  git status
+  308  ls
+  309  cat > file.txt
+  310  cat file.txt 
+  311  ls
+  312  clear
+  313  ls
+  314  git branch
+  315  git branch demo1
+  316  ls
+  317  git checkout demo1
+  318  ls
+  319  vi file.txt 
+  320  cat file.txt 
+  321  git status
+  322  git add file.txt
+  323  git branch main
+  324  git checkout main
+  325  git checkout demo1
+  326  vi file.txt
+  327  cat file.txt 
+  328  git checkout main
+  329  git checkout demo1
+  330  git commit -m "updated demo1"
+  331  git checkout main
+  332  git push
+  333  git push --set-upstream origin demo1
+  334  git checkout main
+  335  git status
+  336  git add .
+  337  git commit -m "updated file "
+  338  git push
+  339  git checkout main
+  340  git merge demo1
+  341  ls
+  342  cat file.txt 
+  343  clear
+  344  git branch
+  345  git branch demo2
+  346  git checkout demo2
+  347  ls
+  348  cat file.txt
+  349  vi file.txt 
+  350  git add .
+  351  git commit "updated demo2"
+  352  git commit -m "updated demo2"
+  353  git status
+  354  vi file.txt 
+  355  git status
+  356  git add .
+  357  git commit -am "updated file"
+  358  git push 
+  359  git push --set-upstream origin demo2
+  360  git checkout main
+  361  git merge demo2
+  362  clear
+  363  git branch
+  364  git checkout demo1
+  365  ls 
+  366  vi file.txt 
+  367  cat file.txt 
+  368  git add .
+  369  git commit -m "conflict1"
+  370  git push 
+  371  git branch demo2
+  372  git checout demo2
+  373  git chekcout demo2
+  374  git checkout demo2
+  375  clear
+  376  vi file.txt 
+  377  git add .
+  378  git commit -m "conflict2"
+  379  git push
+  380  git checkout main
+  381  git merger demo1
+  382  git merge demo1
+  383  git merge demo2
+  384  clear
+  385  history
+  386  git status > log.txt
+  387  history > log.txt
+  388  history > log.txt
