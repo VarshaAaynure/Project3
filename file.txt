@@ -1,8 +1,0 @@
-one
-two
-three
-four
-demo1 updated
-demo2 updated file 
-conflict1
-demo1
